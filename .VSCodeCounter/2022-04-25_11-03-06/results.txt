@@ -1,0 +1,206 @@
+Date : 2022-04-25 11:03:06
+Directory : c:\Users\A\TravelX-Website
+Total : 142 files,  26206 codes, 940 comments, 1706 blanks, all 28852 lines
+
+Languages
++--------------------+------------+------------+------------+------------+------------+
+| language           | files      | code       | comment    | blank      | total      |
++--------------------+------------+------------+------------+------------+------------+
+| JSON               |          6 |     13,662 |         19 |          5 |     13,686 |
+| CSS                |         28 |      5,702 |        343 |        875 |      6,920 |
+| TypeScript         |         70 |      2,819 |        189 |        612 |      3,620 |
+| XML                |          1 |      2,671 |          0 |          1 |      2,672 |
+| HTML               |         24 |      1,018 |        151 |        117 |      1,286 |
+| JavaScript         |         10 |        272 |        238 |         81 |        591 |
+| JSON with Comments |          2 |         40 |          0 |          2 |         42 |
+| Markdown           |          1 |         22 |          0 |         13 |         35 |
++--------------------+------------+------------+------------+------------+------------+
+
+Directories
++------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                                                           | files      | code       | comment    | blank      | total      |
++------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                                                              |        142 |     26,206 |        940 |      1,706 |     28,852 |
+| ang                                                                                            |        141 |     26,184 |        940 |      1,693 |     28,817 |
+| ang\e2e                                                                                        |          4 |         64 |          7 |         11 |         82 |
+| ang\e2e\src                                                                                    |          2 |         27 |          1 |          8 |         36 |
+| ang\src                                                                                        |        128 |     12,396 |        906 |      1,669 |     14,971 |
+| ang\src\app                                                                                    |        109 |      5,072 |        388 |        891 |      6,351 |
+| ang\src\app\aboutus                                                                            |          8 |        243 |          2 |         60 |        305 |
+| ang\src\app\aboutus\links                                                                      |          4 |        137 |          1 |         36 |        174 |
+| ang\src\app\article                                                                            |         12 |        416 |         70 |         64 |        550 |
+| ang\src\app\article\article-create                                                             |          4 |        153 |         52 |         31 |        236 |
+| ang\src\app\article\article-edit                                                               |          4 |        121 |          0 |         20 |        141 |
+| ang\src\app\banner                                                                             |          4 |         87 |          2 |         21 |        110 |
+| ang\src\app\blog                                                                               |          4 |        119 |          4 |         21 |        144 |
+| ang\src\app\contactus                                                                          |          4 |        194 |          4 |         24 |        222 |
+| ang\src\app\features                                                                           |          4 |        100 |         11 |         26 |        137 |
+| ang\src\app\feedback                                                                           |          4 |         82 |          0 |         20 |        102 |
+| ang\src\app\header                                                                             |          4 |        216 |         45 |         55 |        316 |
+| ang\src\app\login                                                                              |          4 |        292 |          7 |         51 |        350 |
+| ang\src\app\navmenu                                                                            |          4 |         89 |         48 |         32 |        169 |
+| ang\src\app\notfound                                                                           |          4 |         55 |          1 |         13 |         69 |
+| ang\src\app\pagination                                                                         |          4 |         83 |          0 |         15 |         98 |
+| ang\src\app\post                                                                               |          4 |        106 |          8 |         19 |        133 |
+| ang\src\app\signup                                                                             |          4 |        414 |         15 |         75 |        504 |
+| ang\src\app\slider                                                                             |          4 |        102 |          3 |         22 |        127 |
+| ang\src\app\tourpackages                                                                       |          8 |        370 |         61 |         92 |        523 |
+| ang\src\app\tourpackages\package                                                               |          4 |        197 |         27 |         53 |        277 |
+| ang\src\app\userdashboard                                                                      |         10 |        591 |         50 |         80 |        721 |
+| ang\src\app\userdashboard\userdash                                                             |          4 |        527 |         48 |         60 |        635 |
+| ang\src\app\userdashboard\usericon                                                             |          4 |         35 |          2 |         11 |         48 |
+| ang\src\assets                                                                                 |         12 |      7,168 |        406 |        723 |      8,297 |
+| ang\src\assets\css                                                                             |          4 |      4,284 |        182 |        650 |      5,116 |
+| ang\src\assets\fonts                                                                           |          1 |      2,671 |          0 |          1 |      2,672 |
+| ang\src\assets\js                                                                              |          7 |        213 |        224 |         72 |        509 |
+| ang\src\environments                                                                           |          2 |          6 |         11 |          4 |         21 |
++------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++------------------------------------------------------------------------------------------------+--------------------+------------+------------+------------+------------+
+| filename                                                                                       | language           | code       | comment    | blank      | total      |
++------------------------------------------------------------------------------------------------+--------------------+------------+------------+------------+------------+
+| c:\Users\A\TravelX-Website\README.md                                                           | Markdown           |         22 |          0 |         13 |         35 |
+| c:\Users\A\TravelX-Website\ang\angular.json                                                    | JSON               |        117 |         19 |          1 |        137 |
+| c:\Users\A\TravelX-Website\ang\e2e\protractor.conf.js                                          | JavaScript         |         24 |          6 |          2 |         32 |
+| c:\Users\A\TravelX-Website\ang\e2e\src\app.e2e-spec.ts                                         | TypeScript         |         18 |          1 |          5 |         24 |
+| c:\Users\A\TravelX-Website\ang\e2e\src\app.po.ts                                               | TypeScript         |          9 |          0 |          3 |         12 |
+| c:\Users\A\TravelX-Website\ang\e2e\tsconfig.json                                               | JSON with Comments |         13 |          0 |          1 |         14 |
+| c:\Users\A\TravelX-Website\ang\karma.conf.js                                                   | JavaScript         |         29 |          2 |          2 |         33 |
+| c:\Users\A\TravelX-Website\ang\package-lock.json                                               | JSON               |     13,349 |          0 |          1 |     13,350 |
+| c:\Users\A\TravelX-Website\ang\package.json                                                    | JSON               |         69 |          0 |          1 |         70 |
+| c:\Users\A\TravelX-Website\ang\server.js                                                       | JavaScript         |          6 |          6 |          5 |         17 |
+| c:\Users\A\TravelX-Website\ang\src\app\aboutus\aboutus.component.css                           | CSS                |         30 |          1 |          9 |         40 |
+| c:\Users\A\TravelX-Website\ang\src\app\aboutus\aboutus.component.html                          | HTML               |         39 |          0 |          2 |         41 |
+| c:\Users\A\TravelX-Website\ang\src\app\aboutus\aboutus.component.spec.ts                       | TypeScript         |         20 |          0 |          6 |         26 |
+| c:\Users\A\TravelX-Website\ang\src\app\aboutus\aboutus.component.ts                            | TypeScript         |         17 |          0 |          7 |         24 |
+| c:\Users\A\TravelX-Website\ang\src\app\aboutus\links\links.component.css                       | CSS                |          6 |          1 |          1 |          8 |
+| c:\Users\A\TravelX-Website\ang\src\app\aboutus\links\links.component.html                      | HTML               |        100 |          0 |         24 |        124 |
+| c:\Users\A\TravelX-Website\ang\src\app\aboutus\links\links.component.spec.ts                   | TypeScript         |         20 |          0 |          6 |         26 |
+| c:\Users\A\TravelX-Website\ang\src\app\aboutus\links\links.component.ts                        | TypeScript         |         11 |          0 |          5 |         16 |
+| c:\Users\A\TravelX-Website\ang\src\app\app-routing.module.ts                                   | TypeScript         |         39 |          1 |          8 |         48 |
+| c:\Users\A\TravelX-Website\ang\src\app\app.component.css                                       | CSS                |          0 |          0 |          1 |          1 |
+| c:\Users\A\TravelX-Website\ang\src\app\app.component.html                                      | HTML               |          3 |          1 |          2 |          6 |
+| c:\Users\A\TravelX-Website\ang\src\app\app.component.spec.ts                                   | TypeScript         |         31 |          0 |          5 |         36 |
+| c:\Users\A\TravelX-Website\ang\src\app\app.component.ts                                        | TypeScript         |         17 |          3 |          6 |         26 |
+| c:\Users\A\TravelX-Website\ang\src\app\app.module.ts                                           | TypeScript         |         90 |          3 |          4 |         97 |
+| c:\Users\A\TravelX-Website\ang\src\app\article\article-create\article-create.component.css     | CSS                |         46 |         46 |         10 |        102 |
+| c:\Users\A\TravelX-Website\ang\src\app\article\article-create\article-create.component.html    | HTML               |         42 |          5 |          1 |         48 |
+| c:\Users\A\TravelX-Website\ang\src\app\article\article-create\article-create.component.spec.ts | TypeScript         |         20 |          0 |          6 |         26 |
+| c:\Users\A\TravelX-Website\ang\src\app\article\article-create\article-create.component.ts      | TypeScript         |         45 |          1 |         14 |         60 |
+| c:\Users\A\TravelX-Website\ang\src\app\article\article-edit\article-edit.component.css         | CSS                |          0 |          0 |          1 |          1 |
+| c:\Users\A\TravelX-Website\ang\src\app\article\article-edit\article-edit.component.html        | HTML               |         38 |          0 |          1 |         39 |
+| c:\Users\A\TravelX-Website\ang\src\app\article\article-edit\article-edit.component.spec.ts     | TypeScript         |         20 |          0 |          6 |         26 |
+| c:\Users\A\TravelX-Website\ang\src\app\article\article-edit\article-edit.component.ts          | TypeScript         |         63 |          0 |         12 |         75 |
+| c:\Users\A\TravelX-Website\ang\src\app\article\article.component.css                           | CSS                |         43 |         16 |          0 |         59 |
+| c:\Users\A\TravelX-Website\ang\src\app\article\article.component.html                          | HTML               |         50 |          1 |          3 |         54 |
+| c:\Users\A\TravelX-Website\ang\src\app\article\article.component.spec.ts                       | TypeScript         |         20 |          0 |          6 |         26 |
+| c:\Users\A\TravelX-Website\ang\src\app\article\article.component.ts                            | TypeScript         |         29 |          1 |          4 |         34 |
+| c:\Users\A\TravelX-Website\ang\src\app\authentication.service.spec.ts                          | TypeScript         |          9 |          0 |          4 |         13 |
+| c:\Users\A\TravelX-Website\ang\src\app\authentication.service.ts                               | TypeScript         |         61 |          9 |         13 |         83 |
+| c:\Users\A\TravelX-Website\ang\src\app\banner\banner.component.css                             | CSS                |         28 |          0 |          6 |         34 |
+| c:\Users\A\TravelX-Website\ang\src\app\banner\banner.component.html                            | HTML               |         16 |          0 |          0 |         16 |
+| c:\Users\A\TravelX-Website\ang\src\app\banner\banner.component.spec.ts                         | TypeScript         |         20 |          0 |          6 |         26 |
+| c:\Users\A\TravelX-Website\ang\src\app\banner\banner.component.ts                              | TypeScript         |         23 |          2 |          9 |         34 |
+| c:\Users\A\TravelX-Website\ang\src\app\blog\blog.component.css                                 | CSS                |         42 |          2 |          5 |         49 |
+| c:\Users\A\TravelX-Website\ang\src\app\blog\blog.component.html                                | HTML               |         17 |          0 |          1 |         18 |
+| c:\Users\A\TravelX-Website\ang\src\app\blog\blog.component.spec.ts                             | TypeScript         |         20 |          0 |          6 |         26 |
+| c:\Users\A\TravelX-Website\ang\src\app\blog\blog.component.ts                                  | TypeScript         |         40 |          2 |          9 |         51 |
+| c:\Users\A\TravelX-Website\ang\src\app\config.service.spec.ts                                  | TypeScript         |          9 |          0 |          4 |         13 |
+| c:\Users\A\TravelX-Website\ang\src\app\config.service.ts                                       | TypeScript         |        167 |         27 |         30 |        224 |
+| c:\Users\A\TravelX-Website\ang\src\app\configuration.ts                                        | TypeScript         |        842 |          0 |         55 |        897 |
+| c:\Users\A\TravelX-Website\ang\src\app\contactus\contactus.component.css                       | CSS                |        126 |          2 |          9 |        137 |
+| c:\Users\A\TravelX-Website\ang\src\app\contactus\contactus.component.html                      | HTML               |         26 |          2 |          0 |         28 |
+| c:\Users\A\TravelX-Website\ang\src\app\contactus\contactus.component.spec.ts                   | TypeScript         |         20 |          0 |          6 |         26 |
+| c:\Users\A\TravelX-Website\ang\src\app\contactus\contactus.component.ts                        | TypeScript         |         22 |          0 |          9 |         31 |
+| c:\Users\A\TravelX-Website\ang\src\app\features\features.component.css                         | CSS                |         33 |          0 |          8 |         41 |
+| c:\Users\A\TravelX-Website\ang\src\app\features\features.component.html                        | HTML               |         25 |          9 |          1 |         35 |
+| c:\Users\A\TravelX-Website\ang\src\app\features\features.component.spec.ts                     | TypeScript         |         20 |          0 |          6 |         26 |
+| c:\Users\A\TravelX-Website\ang\src\app\features\features.component.ts                          | TypeScript         |         22 |          2 |         11 |         35 |
+| c:\Users\A\TravelX-Website\ang\src\app\feedback\feedback.component.css                         | CSS                |         28 |          0 |          5 |         33 |
+| c:\Users\A\TravelX-Website\ang\src\app\feedback\feedback.component.html                        | HTML               |         17 |          0 |          0 |         17 |
+| c:\Users\A\TravelX-Website\ang\src\app\feedback\feedback.component.spec.ts                     | TypeScript         |         20 |          0 |          6 |         26 |
+| c:\Users\A\TravelX-Website\ang\src\app\feedback\feedback.component.ts                          | TypeScript         |         17 |          0 |          9 |         26 |
+| c:\Users\A\TravelX-Website\ang\src\app\header\header.component.css                             | CSS                |         87 |         10 |         13 |        110 |
+| c:\Users\A\TravelX-Website\ang\src\app\header\header.component.html                            | HTML               |         49 |          0 |          1 |         50 |
+| c:\Users\A\TravelX-Website\ang\src\app\header\header.component.spec.ts                         | TypeScript         |         20 |          0 |          6 |         26 |
+| c:\Users\A\TravelX-Website\ang\src\app\header\header.component.ts                              | TypeScript         |         60 |         35 |         35 |        130 |
+| c:\Users\A\TravelX-Website\ang\src\app\in-memory-data.service.spec.ts                          | TypeScript         |          9 |          0 |          4 |         13 |
+| c:\Users\A\TravelX-Website\ang\src\app\in-memory-data.service.ts                               | TypeScript         |        119 |         10 |         32 |        161 |
+| c:\Users\A\TravelX-Website\ang\src\app\login\login.component.css                               | CSS                |        199 |          5 |         34 |        238 |
+| c:\Users\A\TravelX-Website\ang\src\app\login\login.component.html                              | HTML               |         35 |          0 |          1 |         36 |
+| c:\Users\A\TravelX-Website\ang\src\app\login\login.component.spec.ts                           | TypeScript         |         20 |          0 |          6 |         26 |
+| c:\Users\A\TravelX-Website\ang\src\app\login\login.component.ts                                | TypeScript         |         38 |          2 |         10 |         50 |
+| c:\Users\A\TravelX-Website\ang\src\app\navmenu\navmenu.component.css                           | CSS                |         57 |         36 |         14 |        107 |
+| c:\Users\A\TravelX-Website\ang\src\app\navmenu\navmenu.component.html                          | HTML               |          0 |         12 |          6 |         18 |
+| c:\Users\A\TravelX-Website\ang\src\app\navmenu\navmenu.component.spec.ts                       | TypeScript         |         20 |          0 |          6 |         26 |
+| c:\Users\A\TravelX-Website\ang\src\app\navmenu\navmenu.component.ts                            | TypeScript         |         12 |          0 |          6 |         18 |
+| c:\Users\A\TravelX-Website\ang\src\app\notfound\notfound.component.css                         | CSS                |         13 |          1 |          2 |         16 |
+| c:\Users\A\TravelX-Website\ang\src\app\notfound\notfound.component.html                        | HTML               |         11 |          0 |          0 |         11 |
+| c:\Users\A\TravelX-Website\ang\src\app\notfound\notfound.component.spec.ts                     | TypeScript         |         20 |          0 |          6 |         26 |
+| c:\Users\A\TravelX-Website\ang\src\app\notfound\notfound.component.ts                          | TypeScript         |         11 |          0 |          5 |         16 |
+| c:\Users\A\TravelX-Website\ang\src\app\pager.service.spec.ts                                   | TypeScript         |          9 |          0 |          4 |         13 |
+| c:\Users\A\TravelX-Website\ang\src\app\pager.service.ts                                        | TypeScript         |         58 |          2 |         16 |         76 |
+| c:\Users\A\TravelX-Website\ang\src\app\pagination\pagination.component.css                     | CSS                |         16 |          0 |          1 |         17 |
+| c:\Users\A\TravelX-Website\ang\src\app\pagination\pagination.component.html                    | HTML               |         31 |          0 |          4 |         35 |
+| c:\Users\A\TravelX-Website\ang\src\app\pagination\pagination.component.spec.ts                 | TypeScript         |         20 |          0 |          6 |         26 |
+| c:\Users\A\TravelX-Website\ang\src\app\pagination\pagination.component.ts                      | TypeScript         |         16 |          0 |          4 |         20 |
+| c:\Users\A\TravelX-Website\ang\src\app\post.ts                                                 | TypeScript         |         12 |          0 |          2 |         14 |
+| c:\Users\A\TravelX-Website\ang\src\app\post\post.component.css                                 | CSS                |         60 |          6 |          8 |         74 |
+| c:\Users\A\TravelX-Website\ang\src\app\post\post.component.html                                | HTML               |         14 |          2 |          1 |         17 |
+| c:\Users\A\TravelX-Website\ang\src\app\post\post.component.spec.ts                             | TypeScript         |         20 |          0 |          6 |         26 |
+| c:\Users\A\TravelX-Website\ang\src\app\post\post.component.ts                                  | TypeScript         |         12 |          0 |          4 |         16 |
+| c:\Users\A\TravelX-Website\ang\src\app\routeguard.service.spec.ts                              | TypeScript         |          9 |          0 |          4 |         13 |
+| c:\Users\A\TravelX-Website\ang\src\app\routeguard.service.ts                                   | TypeScript         |         15 |          1 |          5 |         21 |
+| c:\Users\A\TravelX-Website\ang\src\app\signup\signup.component.css                             | CSS                |        213 |          9 |         35 |        257 |
+| c:\Users\A\TravelX-Website\ang\src\app\signup\signup.component.html                            | HTML               |         57 |          1 |          8 |         66 |
+| c:\Users\A\TravelX-Website\ang\src\app\signup\signup.component.spec.ts                         | TypeScript         |         20 |          0 |          6 |         26 |
+| c:\Users\A\TravelX-Website\ang\src\app\signup\signup.component.ts                              | TypeScript         |        124 |          5 |         26 |        155 |
+| c:\Users\A\TravelX-Website\ang\src\app\slider\slider.component.css                             | CSS                |         41 |          1 |          5 |         47 |
+| c:\Users\A\TravelX-Website\ang\src\app\slider\slider.component.html                            | HTML               |         22 |          1 |          1 |         24 |
+| c:\Users\A\TravelX-Website\ang\src\app\slider\slider.component.spec.ts                         | TypeScript         |         20 |          0 |          6 |         26 |
+| c:\Users\A\TravelX-Website\ang\src\app\slider\slider.component.ts                              | TypeScript         |         19 |          1 |         10 |         30 |
+| c:\Users\A\TravelX-Website\ang\src\app\tourpackages\package\package.component.css              | CSS                |         89 |          7 |         17 |        113 |
+| c:\Users\A\TravelX-Website\ang\src\app\tourpackages\package\package.component.html             | HTML               |         42 |         17 |         13 |         72 |
+| c:\Users\A\TravelX-Website\ang\src\app\tourpackages\package\package.component.spec.ts          | TypeScript         |         20 |          0 |          6 |         26 |
+| c:\Users\A\TravelX-Website\ang\src\app\tourpackages\package\package.component.ts               | TypeScript         |         46 |          3 |         17 |         66 |
+| c:\Users\A\TravelX-Website\ang\src\app\tourpackages\tourpackages.component.css                 | CSS                |         38 |          1 |         10 |         49 |
+| c:\Users\A\TravelX-Website\ang\src\app\tourpackages\tourpackages.component.html                | HTML               |         93 |         31 |         15 |        139 |
+| c:\Users\A\TravelX-Website\ang\src\app\tourpackages\tourpackages.component.spec.ts             | TypeScript         |         20 |          0 |          6 |         26 |
+| c:\Users\A\TravelX-Website\ang\src\app\tourpackages\tourpackages.component.ts                  | TypeScript         |         22 |          2 |          8 |         32 |
+| c:\Users\A\TravelX-Website\ang\src\app\user.ts                                                 | TypeScript         |         14 |          0 |          2 |         16 |
+| c:\Users\A\TravelX-Website\ang\src\app\userdashboard\userdash\userdash.component.css           | CSS                |        149 |         16 |          7 |        172 |
+| c:\Users\A\TravelX-Website\ang\src\app\userdashboard\userdash\userdash.component.html          | HTML               |        235 |         26 |         20 |        281 |
+| c:\Users\A\TravelX-Website\ang\src\app\userdashboard\userdash\userdash.component.spec.ts       | TypeScript         |         20 |          0 |          6 |         26 |
+| c:\Users\A\TravelX-Website\ang\src\app\userdashboard\userdash\userdash.component.ts            | TypeScript         |        123 |          6 |         27 |        156 |
+| c:\Users\A\TravelX-Website\ang\src\app\userdashboard\userdashboard-routing.module.ts           | TypeScript         |         12 |          0 |          5 |         17 |
+| c:\Users\A\TravelX-Website\ang\src\app\userdashboard\userdashboard.module.ts                   | TypeScript         |         17 |          0 |          4 |         21 |
+| c:\Users\A\TravelX-Website\ang\src\app\userdashboard\usericon\usericon.component.css           | CSS                |          0 |          0 |          1 |          1 |
+| c:\Users\A\TravelX-Website\ang\src\app\userdashboard\usericon\usericon.component.html          | HTML               |          3 |          2 |          0 |          5 |
+| c:\Users\A\TravelX-Website\ang\src\app\userdashboard\usericon\usericon.component.spec.ts       | TypeScript         |         20 |          0 |          6 |         26 |
+| c:\Users\A\TravelX-Website\ang\src\app\userdashboard\usericon\usericon.component.ts            | TypeScript         |         12 |          0 |          4 |         16 |
+| c:\Users\A\TravelX-Website\ang\src\assets\css\animate.css                                      | CSS                |      2,745 |         10 |        517 |      3,272 |
+| c:\Users\A\TravelX-Website\ang\src\assets\css\animations.css                                   | CSS                |      1,537 |        163 |        132 |      1,832 |
+| c:\Users\A\TravelX-Website\ang\src\assets\css\bootstrap4.3.1.min.css                           | CSS                |          1 |          6 |          0 |          7 |
+| c:\Users\A\TravelX-Website\ang\src\assets\css\font-awesome.min.css                             | CSS                |          1 |          3 |          1 |          5 |
+| c:\Users\A\TravelX-Website\ang\src\assets\fonts\fontawesome-webfont.svg                        | XML                |      2,671 |          0 |          1 |      2,672 |
+| c:\Users\A\TravelX-Website\ang\src\assets\js\bootstrap3.4.0.min.js                             | JavaScript         |          1 |          5 |          0 |          6 |
+| c:\Users\A\TravelX-Website\ang\src\assets\js\bootstrap4.3.1.min.js                             | JavaScript         |          1 |          6 |          0 |          7 |
+| c:\Users\A\TravelX-Website\ang\src\assets\js\css3-animate-it.js                                | JavaScript         |        207 |        206 |         69 |        482 |
+| c:\Users\A\TravelX-Website\ang\src\assets\js\jquery-3.3.1.slim.min.js                          | JavaScript         |          1 |          1 |          1 |          3 |
+| c:\Users\A\TravelX-Website\ang\src\assets\js\jquery.min.js                                     | JavaScript         |          1 |          1 |          1 |          3 |
+| c:\Users\A\TravelX-Website\ang\src\assets\js\popper.min.js                                     | JavaScript         |          1 |          4 |          1 |          6 |
+| c:\Users\A\TravelX-Website\ang\src\assets\js\wow.min.js                                        | JavaScript         |          1 |          1 |          0 |          2 |
+| c:\Users\A\TravelX-Website\ang\src\environments\environment.prod.ts                            | TypeScript         |          3 |          0 |          1 |          4 |
+| c:\Users\A\TravelX-Website\ang\src\environments\environment.ts                                 | TypeScript         |          3 |         11 |          3 |         17 |
+| c:\Users\A\TravelX-Website\ang\src\index.html                                                  | HTML               |         53 |         41 |         12 |        106 |
+| c:\Users\A\TravelX-Website\ang\src\main.ts                                                     | TypeScript         |          9 |          0 |          4 |         13 |
+| c:\Users\A\TravelX-Website\ang\src\polyfills.ts                                                | TypeScript         |          1 |         55 |          8 |         64 |
+| c:\Users\A\TravelX-Website\ang\src\styles.css                                                  | CSS                |         74 |          1 |         23 |         98 |
+| c:\Users\A\TravelX-Website\ang\src\test.ts                                                     | TypeScript         |         13 |          4 |          4 |         21 |
+| c:\Users\A\TravelX-Website\ang\tsconfig.app.json                                               | JSON               |         18 |          0 |          1 |         19 |
+| c:\Users\A\TravelX-Website\ang\tsconfig.json                                                   | JSON with Comments |         27 |          0 |          1 |         28 |
+| c:\Users\A\TravelX-Website\ang\tsconfig.spec.json                                              | JSON               |         18 |          0 |          1 |         19 |
+| c:\Users\A\TravelX-Website\ang\tslint.json                                                     | JSON               |         91 |          0 |          0 |         91 |
+| Total                                                                                          |                    |     26,206 |        940 |      1,706 |     28,852 |
++------------------------------------------------------------------------------------------------+--------------------+------------+------------+------------+------------+

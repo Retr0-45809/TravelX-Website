@@ -34,6 +34,7 @@ import { MarkdownModule, MarkedOptions } from 'ngx-markdown';
 import { NavmenuComponent } from './navmenu/navmenu.component';
 import { NgbModule } from '@ng-bootstrap/ng-bootstrap';
 import { UserdashboardModule } from './userdashboard/userdashboard.module';
+import { BookingComponent } from './booking/booking.component';
 
 
 @NgModule({
@@ -59,6 +60,7 @@ import { UserdashboardModule } from './userdashboard/userdashboard.module';
     ArticleEditComponent,
     ArticleCreateComponent,
     NavmenuComponent,
+    BookingComponent,
   ],
   imports: [
     BrowserModule,

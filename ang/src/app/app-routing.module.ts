@@ -15,7 +15,7 @@ import { ContactusComponent } from './contactus/contactus.component';
 import { ArticleEditComponent } from './article/article-edit/article-edit.component';
 import { ArticleCreateComponent } from './article/article-create/article-create.component';
 import { UserdashboardModule } from './userdashboard/userdashboard.module';
-
+import { BookingComponent } from './booking/booking.component';
 
 
 
@@ -29,6 +29,7 @@ const routes: Routes = [
   { path: 'package', component: PackageComponent},
   { path: 'FAQ',component: LinksComponent},
   { path: 'blog' , component: BlogComponent },
+  { path: 'book', component:BookingComponent},
   { path: 'article/:id' , component: ArticleComponent },
   { path: 'article-edit/:id' , component: ArticleEditComponent , canActivate: [RouteguardService] },
   { path: 'article-create' , component: ArticleCreateComponent , canActivate: [RouteguardService]},
